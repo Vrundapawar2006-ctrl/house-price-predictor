@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>House Price Predictor</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body>
+
+    <div class="background">
+
+        <div class="container">
+
+            <div class="header">
+
+                <p class="small-title">
+                    SMART REAL ESTATE
+                </p>
+
+                <h1>
+                    House Price Predictor
+                </h1>
+
+                <p>
+                    Enter property details to estimate its price.
+                </p>
+
+            </div>
+
+
+            <!-- Prediction Form -->
+
+            <form id="predictionForm">
+
+                <div class="form-grid">
+
+                    <!-- Location -->
+
+                    <div class="form-group">
+
+                        <label for="location">
+                            Location
+                        </label>
+
+                        <select id="location" required>
+
+                            <option value="">
+                                Select Location
+                            </option>
+
+                            <option value="City Center">
+                                City Center
+                            </option>
+
+                            <option value="Suburbs">
+                                Suburbs
+                            </option>
+
+                            <option value="Downtown">
+                                Downtown
+                            </option>
+
+                        </select>
+
+                    </div>
+
+
+                    <!-- Area -->
+
+                    <div class="form-group">
+
+                        <label for="area">
+                            Area (sq. ft.)
+                        </label>
+
+                        <input
+                            type="number"
+                            id="area"
+                            placeholder="e.g. 1200"
+                            min="100"
+                            required
+                        >
+
+                    </div>
+
+
+                    <!-- Bedrooms -->
+
+                    <div class="form-group">
+
+                        <label for="bedrooms">
+                            Bedrooms
+                        </label>
+
+                        <input
+                            type="number"
+                            id="bedrooms"
+                            placeholder="e.g. 2"
+                            min="1"
+                            required
+                        >
+
+                    </div>
+
+
+                    <!-- Age -->
+
+                    <div class="form-group">
+
+                        <label for="age">
+                            House Age (years)
+                        </label>
+
+                        <input
+                            type="number"
+                            id="age"
+                            placeholder="e.g. 5"
+                            min="0"
+                            required
+                        >
+
+                    </div>
+
+
+                    <!-- Bathrooms -->
+
+                    <div class="form-group">
+
+                        <label for="bathrooms">
+                            Bathrooms
+                        </label>
+
+                        <input
+                            type="number"
+                            id="bathrooms"
+                            placeholder="e.g. 2"
+                            min="1"
+                            required
+                        >
+
+                    </div>
+
+
+                    <!-- Parking -->
+
+                    <div class="form-group">
+
+                        <label>
+                            Parking
+                        </label>
+
+                        <div class="radio-group">
+
+                            <label class="radio-option">
+
+                                <input
+                                    type="radio"
+                                    name="parking"
+                                    value="Yes"
+                                    checked
+                                >
+
+                                Yes
+
+                            </label>
+
+                            <label class="radio-option">
+
+                                <input
+                                    type="radio"
+                                    name="parking"
+                                    value="No"
+                                >
+
+                                No
+
+                            </label>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- Property Type -->
+
+                    <div class="form-group">
+
+                        <label for="propertyType">
+                            Property Type
+                        </label>
+
+                        <select id="propertyType" required>
+
+                            <option value="">
+                                Select Property Type
+                            </option>
+
+                            <option value="Flat">
+                                Flat
+                            </option>
+
+                            <option value="Row House">
+                                Row House
+                            </option>
+
+                            <option value="Bungalow">
+                                Bungalow
+                            </option>
+
+                        </select>
+
+                    </div>
+
+                </div>
+
+
+                <button
+                    type="submit"
+                    class="predict-button"
+                    id="predictButton"
+                >
+
+                    Predict House Price
+
+                </button>
+
+            </form>
+
+
+            <!-- Loading -->
+
+            <div
+                id="loading"
+                class="loading hidden"
+            >
+
+                <div class="spinner"></div>
+
+                <p>
+                    Calculating estimated price...
+                </p>
+
+            </div>
+
+
+            <!-- Result -->
+
+            <div
+                id="resultCard"
+                class="result-card hidden"
+            >
+
+                <p class="result-label">
+                    Estimated Property Price
+                </p>
+
+                <h2 id="prediction">
+                    ₹0
+                </h2>
+
+                <p class="result-note">
+                    This is an estimated value based on the
+                    available training data.
+                </p>
+
+
+                <!-- Feedback -->
+
+                <div class="feedback">
+
+                    <p>
+                        Is this price accurate?
+                    </p>
+
+                    <button
+                        type="button"
+                        id="yesButton"
+                        class="feedback-button yes"
+                    >
+                        Yes
+                    </button>
+
+                    <button
+                        type="button"
+                        id="noButton"
+                        class="feedback-button no"
+                    >
+                        No
+                    </button>
+
+                </div>
+
+
+                <!-- Correction -->
+
+                <div
+                    id="correctionBox"
+                    class="correction hidden"
+                >
+
+                    <label for="actualPrice">
+                        Actual / Real Price
+                    </label>
+
+                    <input
+                        type="number"
+                        id="actualPrice"
+                        placeholder="Enter actual price"
+                        min="1"
+                    >
+
+                    <button
+                        type="button"
+                        id="submitCorrection"
+                    >
+                        Submit Correction
+                    </button>
+
+                </div>
+
+
+                <div
+                    id="feedbackMessage"
+                    class="feedback-message"
+                ></div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <script
+        src="{{ url_for('static', filename='script.js') }}">
+    </script>
+
+</body>
+
+</html>
