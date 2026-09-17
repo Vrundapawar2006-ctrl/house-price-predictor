@@ -1,0 +1,501 @@
+Location,Area,Bedrooms,Age,Bathrooms,Parking,PropertyType,Price
+Suburbs,1221,2,0,3,No,Flat,7154355
+Suburbs,2970,5,21,2,Yes,Flat,16009635
+City Center,669,3,7,3,No,Row House,7375965
+Suburbs,1718,5,5,4,Yes,Bungalow,14412670
+Suburbs,2591,2,28,4,No,Bungalow,15537811
+Downtown,618,3,4,2,No,Row House,7506432
+City Center,638,3,1,3,Yes,Bungalow,8550327
+City Center,668,1,10,4,No,Row House,6299088
+Downtown,1628,1,19,2,Yes,Flat,9448689
+Downtown,1663,1,7,1,No,Flat,9462123
+City Center,2913,3,30,1,No,Bungalow,16518075
+Downtown,598,3,13,3,No,Flat,5932463
+Suburbs,2288,5,19,1,No,Flat,12330962
+Suburbs,1834,5,12,3,No,Bungalow,14092185
+Suburbs,702,2,11,1,No,Row House,5186645
+Downtown,592,3,24,1,Yes,Bungalow,7890885
+Suburbs,2540,1,13,1,Yes,Flat,11997703
+City Center,1945,3,22,2,No,Bungalow,12768735
+Suburbs,1942,1,11,2,No,Flat,9679400
+City Center,1264,2,21,4,Yes,Bungalow,10698742
+City Center,1362,5,24,4,No,Bungalow,11784887
+City Center,1695,3,17,1,Yes,Row House,10375297
+City Center,1012,3,0,1,Yes,Row House,8426400
+City Center,2656,5,17,4,No,Row House,16144996
+City Center,2865,4,21,3,No,Row House,16674099
+Suburbs,2415,3,2,3,No,Flat,13715499
+Suburbs,714,2,8,4,Yes,Row House,6695656
+City Center,1436,5,20,4,Yes,Bungalow,13093991
+Suburbs,2236,1,5,2,No,Bungalow,13493922
+Suburbs,1117,2,15,3,Yes,Row House,8063359
+City Center,1405,3,15,4,Yes,Row House,10700766
+City Center,2404,3,28,1,Yes,Flat,12180357
+City Center,1737,2,7,4,Yes,Row House,12036874
+Downtown,1190,1,19,1,Yes,Row House,8246492
+Downtown,1878,4,28,1,Yes,Bungalow,13267946
+City Center,1777,1,21,2,Yes,Bungalow,11386058
+City Center,2111,1,1,4,Yes,Flat,12588966
+City Center,2617,5,3,3,Yes,Flat,16090705
+Downtown,819,4,13,2,No,Flat,7445359
+Downtown,2596,2,8,2,No,Row House,15241383
+Suburbs,1072,3,18,1,No,Flat,5553570
+City Center,2279,4,10,2,Yes,Row House,14059352
+Suburbs,1543,1,28,2,Yes,Row House,8335178
+Suburbs,896,4,12,1,Yes,Bungalow,8711893
+Suburbs,1097,2,6,1,No,Flat,6216712
+City Center,2047,3,18,2,No,Bungalow,13705824
+City Center,2755,2,30,1,No,Flat,13114326
+Suburbs,2450,1,20,1,No,Flat,10772615
+Suburbs,1705,3,8,1,No,Bungalow,11751406
+Downtown,1833,3,4,3,No,Bungalow,13984754
+Downtown,2754,1,24,3,Yes,Row House,15656497
+City Center,1756,3,3,3,Yes,Row House,12075802
+Suburbs,2887,1,28,3,No,Flat,13607826
+City Center,1041,2,25,2,Yes,Row House,7326782
+Suburbs,1048,4,28,1,Yes,Row House,7282309
+City Center,2106,1,20,2,No,Bungalow,13451604
+Suburbs,2487,5,9,4,No,Flat,14406017
+Downtown,2373,4,27,4,No,Flat,14111982
+Downtown,570,3,26,4,No,Flat,5512049
+Suburbs,2596,4,21,4,Yes,Bungalow,17053020
+Downtown,1281,1,9,4,Yes,Flat,8384235
+Suburbs,2621,2,12,3,Yes,Flat,13362648
+City Center,729,1,15,2,Yes,Row House,6044979
+Downtown,919,1,20,1,No,Flat,5127317
+City Center,1731,4,23,4,Yes,Flat,10550954
+Suburbs,1463,2,18,4,Yes,Bungalow,10854431
+Suburbs,1759,5,0,3,Yes,Flat,11689074
+Suburbs,1215,5,2,2,Yes,Bungalow,11296505
+Suburbs,2185,3,17,2,Yes,Bungalow,14283443
+City Center,2918,2,11,3,Yes,Bungalow,17927692
+Downtown,2369,2,16,4,No,Flat,13176551
+City Center,2883,1,22,1,No,Bungalow,15957039
+Downtown,602,3,10,3,Yes,Bungalow,9178113
+Suburbs,2194,3,18,3,No,Bungalow,14199419
+Downtown,784,2,23,1,Yes,Flat,5440570
+Suburbs,902,1,4,3,Yes,Flat,5756985
+Suburbs,1445,3,6,1,No,Bungalow,11148907
+Suburbs,969,5,22,2,Yes,Row House,8034838
+Downtown,1197,4,6,3,Yes,Flat,9523504
+City Center,1504,5,8,1,Yes,Bungalow,13178178
+Suburbs,1653,5,21,3,Yes,Bungalow,12391356
+City Center,2305,5,26,4,Yes,Row House,14490774
+Downtown,2884,1,21,1,No,Flat,14091072
+Suburbs,2809,5,7,4,No,Flat,16041780
+City Center,971,5,12,3,Yes,Flat,8759492
+Suburbs,2279,5,5,1,Yes,Flat,13010749
+Suburbs,1478,1,10,2,Yes,Flat,8118600
+Suburbs,2620,3,15,4,No,Bungalow,16720127
+Downtown,2435,5,7,4,Yes,Bungalow,17977593
+Suburbs,1443,2,15,1,Yes,Flat,7188110
+Suburbs,2576,5,23,3,No,Bungalow,16201918
+Downtown,962,3,20,4,No,Row House,8548571
+Suburbs,1098,5,5,3,Yes,Bungalow,10703975
+Downtown,1724,2,4,4,Yes,Row House,12651677
+Suburbs,687,4,27,1,Yes,Bungalow,7585076
+City Center,613,2,17,3,No,Bungalow,6732362
+Suburbs,2842,3,20,4,No,Row House,15706922
+City Center,2630,3,26,3,Yes,Flat,13600465
+Suburbs,2277,1,26,4,Yes,Row House,12258067
+City Center,808,1,25,2,Yes,Bungalow,6787156
+Downtown,1835,1,11,1,No,Row House,10940807
+Suburbs,1468,3,15,1,Yes,Row House,8818154
+Downtown,2257,1,11,2,Yes,Flat,12805028
+Suburbs,2076,2,9,1,Yes,Flat,11087900
+Downtown,1423,3,25,2,No,Bungalow,11247509
+Suburbs,718,1,17,3,Yes,Flat,4633371
+City Center,1376,2,13,3,Yes,Bungalow,10842156
+Suburbs,2972,4,26,3,Yes,Row House,16408627
+City Center,1202,4,8,4,Yes,Row House,10071762
+Downtown,2989,4,18,1,Yes,Flat,16570265
+Suburbs,1855,2,4,4,Yes,Row House,12032529
+Suburbs,1460,2,18,1,Yes,Flat,7481450
+Downtown,2776,3,22,2,No,Bungalow,17689226
+Downtown,2366,3,19,4,Yes,Row House,14946096
+Suburbs,2296,3,23,4,Yes,Bungalow,14937990
+Downtown,1534,5,24,4,No,Row House,11242809
+Downtown,938,5,9,2,Yes,Flat,8671894
+Downtown,748,5,5,1,No,Row House,8018064
+City Center,1156,2,2,1,No,Row House,8060347
+Downtown,2864,2,26,3,Yes,Bungalow,17178783
+Suburbs,671,2,29,3,Yes,Row House,4611701
+City Center,1241,1,7,1,No,Row House,7762695
+City Center,1252,3,5,2,Yes,Bungalow,11345080
+Downtown,2732,1,1,3,Yes,Flat,14838979
+Downtown,1545,4,6,3,No,Bungalow,13026837
+Downtown,1742,1,18,3,Yes,Row House,11334241
+Suburbs,2214,1,10,3,Yes,Flat,11373841
+City Center,622,4,16,4,Yes,Row House,7207088
+Suburbs,2883,5,14,3,Yes,Row House,17023230
+City Center,999,4,11,1,Yes,Bungalow,10240037
+Suburbs,944,2,10,2,Yes,Row House,6950782
+Suburbs,1570,1,27,2,No,Flat,6598843
+Downtown,2210,5,21,1,No,Flat,12893473
+Downtown,1639,4,5,4,Yes,Row House,13292445
+Downtown,847,1,9,3,No,Flat,6460831
+Downtown,2002,1,15,2,Yes,Bungalow,13332228
+Suburbs,2271,1,7,1,Yes,Flat,11349528
+Suburbs,2446,4,27,1,No,Flat,11913064
+Downtown,2004,5,13,1,Yes,Flat,12588663
+Suburbs,2543,3,6,1,Yes,Bungalow,15861616
+Downtown,2279,5,0,3,No,Flat,15113473
+City Center,1362,3,27,2,Yes,Bungalow,10646801
+Suburbs,981,4,30,2,Yes,Flat,5790995
+City Center,1295,5,12,2,Yes,Flat,9372590
+City Center,2900,1,10,3,No,Flat,14666180
+City Center,1530,3,16,4,No,Row House,10267656
+City Center,1199,4,1,4,Yes,Flat,9245398
+Downtown,1299,2,26,3,No,Bungalow,10183450
+City Center,792,4,0,1,Yes,Bungalow,9719350
+Downtown,778,4,13,1,Yes,Row House,8195788
+Suburbs,506,4,9,4,No,Bungalow,7354027
+Suburbs,2495,2,17,1,Yes,Bungalow,14469538
+Downtown,1607,5,30,1,No,Flat,10035356
+City Center,2633,3,23,4,No,Row House,15488160
+Suburbs,1996,4,29,2,Yes,Flat,10909236
+Suburbs,1669,2,21,1,Yes,Row House,9546078
+Suburbs,1431,4,8,3,No,Flat,9128513
+City Center,1445,3,4,3,No,Flat,9540077
+City Center,2680,2,18,4,Yes,Row House,15375092
+City Center,622,5,17,4,Yes,Row House,7268407
+Downtown,1815,3,27,3,No,Row House,11596071
+City Center,2283,4,11,2,No,Row House,13741915
+City Center,975,5,22,4,No,Row House,8509193
+Downtown,2413,2,11,4,No,Flat,14248849
+Downtown,2376,4,17,1,Yes,Bungalow,16819789
+City Center,1372,1,30,1,Yes,Bungalow,8860528
+City Center,2345,4,9,1,Yes,Flat,13577006
+City Center,1533,5,6,2,No,Flat,10641662
+Downtown,1642,4,22,4,Yes,Bungalow,13430346
+Suburbs,852,2,17,3,Yes,Bungalow,7569170
+Suburbs,641,3,26,2,Yes,Row House,5678115
+Suburbs,2557,5,26,1,Yes,Flat,13084089
+Suburbs,969,4,12,3,No,Bungalow,8916271
+Downtown,2598,3,7,4,No,Bungalow,17671975
+City Center,1376,3,25,2,Yes,Bungalow,10834875
+City Center,1652,4,21,1,No,Bungalow,12350945
+City Center,606,2,6,3,Yes,Flat,5417010
+Suburbs,1051,3,26,1,Yes,Row House,6621834
+City Center,2701,1,3,4,Yes,Bungalow,16968744
+Suburbs,2591,1,7,2,Yes,Flat,13258832
+Suburbs,1787,4,15,1,Yes,Bungalow,12686611
+Suburbs,2439,2,13,4,Yes,Row House,14137200
+Downtown,1341,3,2,1,No,Flat,9521964
+Suburbs,652,5,30,1,Yes,Flat,4794941
+City Center,2393,5,1,3,No,Flat,15135341
+Downtown,1854,5,4,4,No,Flat,13254818
+City Center,545,1,20,3,Yes,Bungalow,6961252
+City Center,508,5,19,2,Yes,Row House,6482553
+Suburbs,2133,4,15,3,No,Flat,12211529
+City Center,2264,1,14,2,No,Bungalow,13769606
+City Center,2991,2,26,2,No,Row House,15424653
+City Center,2800,5,26,1,Yes,Bungalow,17514022
+Suburbs,2848,5,6,4,No,Bungalow,18353794
+Downtown,916,5,11,2,Yes,Row House,9200975
+Downtown,2789,5,13,1,Yes,Flat,16558621
+City Center,2013,3,6,1,No,Row House,12928065
+City Center,542,5,14,4,No,Row House,7472844
+City Center,1332,3,2,1,No,Flat,9140362
+Suburbs,2436,1,6,3,No,Bungalow,14579498
+Downtown,2827,5,9,2,Yes,Bungalow,19346906
+Suburbs,1972,4,11,1,No,Flat,10661596
+Downtown,1073,2,5,4,No,Row House,8902893
+Suburbs,1067,3,14,3,No,Bungalow,9044259
+City Center,2005,4,22,3,Yes,Row House,13162556
+City Center,2550,1,11,2,No,Bungalow,15046635
+City Center,1637,1,21,4,Yes,Flat,9119755
+Downtown,1008,5,7,4,Yes,Row House,10632501
+Suburbs,1264,2,0,2,Yes,Flat,7680972
+Downtown,1553,3,9,1,Yes,Row House,11459180
+Downtown,911,2,22,3,No,Row House,7212617
+Downtown,618,4,10,4,Yes,Bungalow,9863087
+Suburbs,2027,2,15,3,Yes,Row House,11643868
+Suburbs,2502,5,18,2,No,Bungalow,15952952
+Downtown,965,5,26,4,Yes,Flat,8463621
+Downtown,1260,3,0,3,Yes,Flat,9588141
+Suburbs,2700,2,6,2,Yes,Flat,13465017
+City Center,2964,4,27,1,Yes,Row House,16803820
+Suburbs,971,5,11,1,No,Flat,6730292
+Downtown,2123,5,16,3,No,Bungalow,15809179
+Downtown,1090,1,15,4,No,Flat,7494666
+City Center,2310,3,20,2,No,Bungalow,14734736
+Downtown,1308,3,1,1,No,Flat,8852842
+City Center,2369,5,7,4,Yes,Row House,15876592
+Suburbs,2987,5,6,2,Yes,Flat,16527532
+Downtown,2264,1,9,4,Yes,Flat,12611944
+Suburbs,2391,2,30,2,No,Row House,11778849
+City Center,2731,5,8,4,No,Row House,17259095
+Suburbs,2286,2,0,4,No,Flat,12206269
+Downtown,2768,3,13,1,No,Flat,15491886
+City Center,1496,2,11,1,No,Bungalow,10852725
+Downtown,1127,1,14,3,Yes,Bungalow,9655086
+City Center,580,4,9,3,No,Row House,6816225
+Downtown,2004,5,7,3,Yes,Bungalow,16668489
+Suburbs,2152,2,23,3,Yes,Row House,12306886
+City Center,582,3,14,2,Yes,Bungalow,8168492
+City Center,1454,1,30,2,No,Row House,7895301
+Downtown,1790,1,22,2,No,Row House,10511804
+Downtown,2328,5,6,4,No,Bungalow,17592265
+Downtown,1084,2,12,3,Yes,Bungalow,10425287
+City Center,718,1,25,2,No,Row House,4852492
+City Center,1277,1,19,1,Yes,Row House,7471294
+Downtown,2394,1,27,2,Yes,Row House,13466389
+City Center,1429,3,29,4,No,Flat,8186321
+City Center,2714,5,22,3,Yes,Row House,16223417
+City Center,1615,5,2,3,No,Flat,11722304
+Suburbs,740,4,28,4,No,Bungalow,7555061
+Downtown,2365,3,18,3,Yes,Bungalow,16782779
+Suburbs,1087,1,22,1,No,Flat,5062581
+Suburbs,2048,3,5,3,Yes,Bungalow,14706910
+Downtown,2902,2,21,2,No,Row House,15637038
+Suburbs,2470,2,18,1,No,Bungalow,14322070
+Suburbs,2277,3,24,2,No,Flat,11253825
+Downtown,1595,1,11,2,Yes,Flat,8948780
+City Center,848,4,12,2,Yes,Flat,6835693
+Downtown,2411,2,26,3,Yes,Flat,13441044
+City Center,826,5,19,2,Yes,Bungalow,9648365
+Suburbs,594,2,28,1,No,Flat,3068688
+City Center,567,5,0,1,No,Row House,7654857
+Downtown,1263,2,8,1,No,Bungalow,10310319
+Downtown,2889,4,26,1,Yes,Flat,15810766
+Suburbs,1617,3,7,2,Yes,Flat,9651924
+Downtown,1302,2,13,3,Yes,Flat,8799353
+Downtown,1040,1,3,3,No,Flat,7385910
+City Center,1402,3,19,4,No,Flat,8397789
+City Center,1450,1,20,2,Yes,Row House,8872300
+City Center,1000,4,28,4,No,Flat,7294386
+Downtown,1527,5,5,1,No,Bungalow,13080992
+Downtown,1213,4,21,1,Yes,Bungalow,10513384
+Downtown,700,2,13,4,Yes,Bungalow,8645563
+City Center,2777,1,5,2,No,Row House,15324449
+Downtown,1444,1,15,3,No,Flat,8066980
+Suburbs,2697,5,15,4,Yes,Flat,15252217
+Downtown,1454,4,7,3,Yes,Bungalow,13437311
+City Center,970,1,22,1,Yes,Flat,5408014
+City Center,1118,2,5,2,Yes,Row House,8718518
+City Center,1524,1,17,2,Yes,Flat,8517468
+City Center,2831,3,9,4,No,Bungalow,17936456
+Suburbs,1497,3,9,1,No,Row House,9764393
+Downtown,1841,1,6,2,No,Flat,10229333
+City Center,2488,2,2,3,No,Bungalow,16466426
+City Center,1996,1,1,2,No,Flat,11063787
+Suburbs,1336,1,5,4,Yes,Flat,8346019
+City Center,2660,4,14,3,Yes,Flat,14823380
+Downtown,2459,5,26,1,No,Row House,14931468
+Suburbs,2958,1,12,3,Yes,Bungalow,16673687
+Downtown,1163,2,27,2,Yes,Row House,8264289
+Downtown,1981,1,15,2,Yes,Flat,11230581
+Suburbs,1001,5,15,3,No,Row House,8283693
+City Center,2528,2,18,2,No,Flat,13202000
+City Center,2744,5,15,1,Yes,Flat,15520447
+City Center,2405,3,27,4,Yes,Bungalow,15661687
+Downtown,1820,4,6,3,Yes,Bungalow,14527190
+Downtown,1360,3,1,1,Yes,Flat,9290879
+Downtown,2393,4,8,3,Yes,Bungalow,17240876
+Suburbs,2945,4,10,2,No,Flat,15897172
+Suburbs,2408,2,8,1,No,Flat,11729306
+Downtown,1042,5,6,4,Yes,Bungalow,12031644
+Suburbs,990,4,12,2,No,Row House,7185796
+City Center,2532,3,6,4,No,Row House,15445526
+Downtown,1518,2,29,3,No,Bungalow,11201753
+Downtown,1013,4,11,3,No,Row House,9343854
+Suburbs,900,5,12,1,Yes,Bungalow,9619178
+Downtown,1925,2,6,3,No,Row House,12702758
+Suburbs,2661,4,3,2,Yes,Bungalow,17614896
+City Center,2700,2,18,1,Yes,Bungalow,16415348
+City Center,574,5,13,4,No,Flat,6328738
+Downtown,746,4,4,3,Yes,Bungalow,10617700
+Downtown,1892,4,7,2,Yes,Row House,13758791
+Suburbs,2177,5,0,2,Yes,Bungalow,16215057
+City Center,1349,1,26,2,Yes,Flat,6728563
+Suburbs,2205,2,11,1,Yes,Bungalow,13344333
+City Center,2510,2,26,3,No,Row House,13576580
+Suburbs,2895,5,7,3,Yes,Flat,16654747
+Suburbs,2465,5,16,1,No,Bungalow,16018314
+Downtown,1529,2,7,2,Yes,Row House,10408832
+Downtown,2306,3,16,3,Yes,Row House,14503824
+Downtown,1098,4,18,1,No,Bungalow,10113720
+Downtown,1652,4,12,3,Yes,Flat,11538997
+Downtown,1756,4,4,1,No,Flat,11497723
+City Center,576,5,30,2,Yes,Row House,5949749
+City Center,2745,4,17,4,No,Row House,16644997
+City Center,1101,3,13,4,Yes,Flat,8189769
+Suburbs,1962,3,10,1,No,Flat,10637502
+City Center,2458,2,25,1,Yes,Row House,13683782
+Suburbs,1209,5,11,1,No,Row House,8871994
+Suburbs,2680,5,1,3,Yes,Bungalow,18691484
+City Center,2901,4,30,3,Yes,Flat,15459204
+Downtown,1235,4,6,4,Yes,Bungalow,12655065
+City Center,2589,1,13,2,No,Bungalow,15802595
+Downtown,2326,4,12,2,No,Row House,14415873
+Suburbs,883,1,9,4,No,Row House,6480940
+City Center,1568,5,19,4,No,Flat,10175163
+City Center,1078,5,24,1,Yes,Bungalow,10331713
+City Center,587,4,15,4,Yes,Flat,6028491
+Suburbs,2998,2,15,4,No,Flat,15034934
+City Center,1996,3,10,1,Yes,Row House,12515636
+City Center,1358,1,26,4,Yes,Bungalow,10349153
+Downtown,2682,2,12,2,No,Bungalow,17158237
+City Center,2452,4,0,1,Yes,Row House,15850925
+Downtown,1539,4,10,4,No,Row House,12070691
+Suburbs,1403,1,26,3,Yes,Flat,6719624
+Suburbs,2888,3,3,2,Yes,Bungalow,18240410
+City Center,2944,2,14,1,Yes,Row House,16004147
+Downtown,1729,4,3,1,No,Bungalow,14232211
+Downtown,1782,5,6,4,No,Bungalow,14835598
+Suburbs,1746,2,29,3,Yes,Bungalow,10981900
+Downtown,2346,2,18,2,No,Flat,12218072
+Downtown,1417,2,17,4,Yes,Row House,10197980
+Downtown,2098,3,20,3,No,Flat,12190876
+Downtown,2400,5,10,2,No,Row House,15656651
+Suburbs,2625,1,16,4,No,Row House,13630284
+Suburbs,1919,1,4,2,No,Row House,11114450
+Downtown,625,3,25,2,Yes,Flat,5250218
+City Center,2275,3,19,2,Yes,Row House,13410052
+City Center,715,3,23,2,Yes,Row House,6598241
+City Center,1538,1,0,3,No,Bungalow,11944140
+City Center,2919,2,7,3,No,Flat,15065944
+City Center,2226,2,23,1,No,Row House,12345999
+City Center,528,5,3,1,Yes,Flat,6018235
+City Center,1415,3,2,3,No,Bungalow,11690823
+City Center,1623,1,4,4,Yes,Row House,11180554
+Downtown,2171,5,20,1,Yes,Row House,14804391
+Downtown,2382,2,9,2,Yes,Row House,14718573
+Suburbs,2529,2,27,2,Yes,Flat,12167297
+City Center,2872,3,26,1,No,Row House,15248852
+Downtown,1725,2,15,2,Yes,Row House,11065087
+Suburbs,2795,3,21,3,No,Flat,14546792
+Downtown,2387,4,15,3,No,Row House,15390142
+City Center,1267,1,8,3,No,Flat,7754835
+City Center,2569,3,23,2,Yes,Row House,14976641
+Downtown,1122,4,18,2,No,Row House,9193985
+City Center,2211,3,9,2,Yes,Row House,14285904
+City Center,2879,2,6,1,No,Bungalow,17536255
+City Center,2602,1,0,2,Yes,Row House,14824357
+Suburbs,545,4,15,4,No,Bungalow,7364650
+Suburbs,563,4,2,3,No,Bungalow,7995416
+Downtown,2391,2,20,4,No,Row House,14202350
+Suburbs,2952,5,11,3,No,Bungalow,18369930
+Suburbs,2611,2,10,4,No,Bungalow,16086346
+Suburbs,2861,1,0,4,Yes,Row House,16091675
+Downtown,989,5,24,1,Yes,Bungalow,10271279
+Suburbs,2388,1,1,4,No,Bungalow,15495468
+Suburbs,599,5,19,4,Yes,Bungalow,8495255
+City Center,1710,3,30,3,Yes,Row House,10364236
+City Center,1592,5,27,3,Yes,Flat,10516381
+City Center,1636,5,13,1,No,Flat,10572148
+Suburbs,1750,4,25,4,Yes,Flat,9954677
+City Center,2328,3,20,4,Yes,Row House,13817567
+Downtown,712,2,18,4,Yes,Flat,6494242
+Downtown,1533,3,2,2,No,Bungalow,13216816
+Suburbs,1614,3,7,2,Yes,Flat,9201053
+Downtown,2143,3,2,2,No,Row House,14158857
+City Center,2706,5,12,4,No,Flat,15808586
+City Center,599,2,27,4,Yes,Bungalow,6835862
+City Center,533,2,30,2,Yes,Row House,5135807
+Suburbs,2911,5,10,4,No,Flat,16141696
+Suburbs,1507,4,27,3,No,Flat,8805639
+Suburbs,1442,5,4,3,No,Row House,10739749
+Suburbs,544,1,18,1,No,Row House,3395961
+Suburbs,505,1,26,3,No,Bungalow,4655602
+City Center,2324,1,26,1,No,Row House,11511405
+Downtown,1529,4,24,2,Yes,Flat,9923677
+City Center,1003,4,2,2,No,Row House,9332469
+Suburbs,543,2,13,1,Yes,Bungalow,5684081
+City Center,2473,5,25,2,No,Row House,14506651
+City Center,2429,1,1,3,No,Bungalow,15783091
+Downtown,1521,2,26,3,No,Bungalow,11265227
+Downtown,1225,1,18,1,Yes,Flat,7478663
+Suburbs,2607,3,4,3,No,Row House,15294533
+City Center,1695,3,30,3,Yes,Bungalow,12062770
+Downtown,668,3,27,4,Yes,Bungalow,8620772
+Downtown,2381,4,14,1,No,Bungalow,16243165
+City Center,1725,3,6,4,No,Row House,11739635
+City Center,2380,1,7,3,No,Row House,13936533
+City Center,2932,3,16,1,Yes,Flat,15561210
+Downtown,1548,3,3,2,Yes,Flat,10763154
+Downtown,915,2,26,3,No,Flat,6371747
+Suburbs,2907,5,4,3,No,Bungalow,18958646
+Suburbs,1970,5,30,4,Yes,Bungalow,14007204
+City Center,1882,4,15,2,Yes,Row House,12488656
+Downtown,2361,5,13,1,Yes,Bungalow,17259595
+Downtown,2118,4,16,4,Yes,Bungalow,16266835
+Suburbs,1683,4,22,4,No,Bungalow,11993363
+Suburbs,619,1,24,3,Yes,Flat,3046988
+Suburbs,1842,3,21,3,Yes,Bungalow,12724565
+City Center,545,5,29,2,Yes,Row House,6778759
+Suburbs,1471,3,4,4,No,Flat,9588340
+City Center,1501,4,14,2,Yes,Flat,9594506
+Suburbs,1765,1,0,1,No,Row House,10200723
+Downtown,1275,3,15,2,Yes,Bungalow,11594415
+Suburbs,2549,1,25,2,Yes,Row House,12343783
+Suburbs,1163,5,28,1,No,Flat,6494395
+Downtown,2240,1,10,3,No,Flat,12757430
+Downtown,1471,3,8,4,No,Row House,10911042
+Suburbs,1538,3,18,2,No,Bungalow,10408066
+City Center,2939,5,14,3,No,Flat,16568732
+Downtown,789,5,28,4,Yes,Flat,7525628
+Suburbs,720,3,17,2,No,Bungalow,7421005
+City Center,2069,1,15,2,No,Row House,11648697
+Suburbs,2345,5,3,3,Yes,Row House,14806229
+Downtown,1439,2,27,1,No,Flat,8294831
+Suburbs,2405,4,12,4,Yes,Flat,13811544
+City Center,799,1,23,4,No,Bungalow,7203500
+City Center,1345,2,2,1,No,Flat,8208171
+City Center,2644,4,5,4,Yes,Row House,16596094
+Suburbs,2465,3,20,1,No,Bungalow,14488955
+Suburbs,2615,5,25,1,No,Bungalow,16058919
+Suburbs,1461,1,14,3,No,Bungalow,9962690
+City Center,2220,3,11,1,Yes,Bungalow,15008424
+Downtown,795,5,15,4,Yes,Bungalow,10294282
+City Center,2343,4,0,3,Yes,Row House,15487538
+Suburbs,2021,3,8,3,Yes,Row House,12388632
+Suburbs,1405,2,19,3,No,Row House,8630121
+Suburbs,947,1,1,3,Yes,Row House,7280669
+Downtown,970,1,3,2,Yes,Flat,7382948
+Suburbs,1183,5,3,4,No,Bungalow,11601508
+Downtown,2793,3,3,4,No,Bungalow,19416877
+City Center,1169,4,18,1,No,Flat,7522178
+Downtown,1150,5,10,3,Yes,Flat,9929340
+Downtown,1185,5,1,4,Yes,Row House,12079480
+Downtown,1021,1,6,4,Yes,Bungalow,10387929
+City Center,1885,4,30,3,No,Bungalow,13197397
+City Center,2554,2,24,3,No,Flat,13269596
+City Center,1496,1,12,4,Yes,Flat,9333298
+Suburbs,704,1,16,1,No,Flat,3807015
+Downtown,2979,4,10,2,No,Bungalow,18907291
+Downtown,1953,2,1,4,Yes,Bungalow,14893922
+Suburbs,743,4,23,3,No,Flat,5484234
+City Center,2227,5,20,4,No,Bungalow,16151808
+Downtown,1024,3,30,1,Yes,Row House,7921978
+Downtown,2837,1,22,3,Yes,Flat,14466323
+Downtown,2356,4,1,1,No,Row House,15790711
+Downtown,1062,5,16,2,Yes,Bungalow,11094617
+Suburbs,2745,3,13,1,No,Flat,13795337
+City Center,2112,3,10,4,No,Bungalow,14787210
+City Center,2782,2,14,2,Yes,Bungalow,17572920
+Downtown,1647,4,10,1,Yes,Row House,11565977
+Downtown,1319,1,4,1,No,Row House,8529240
+Suburbs,1053,4,0,4,Yes,Row House,8871748
+Suburbs,602,4,17,3,Yes,Row House,5825281
+Downtown,686,5,19,4,No,Row House,7842888
+City Center,2179,5,10,3,Yes,Flat,14095520
+Suburbs,1589,5,20,3,No,Row House,11173228
+Downtown,2189,4,0,2,No,Row House,14880342
+Downtown,2550,5,28,3,Yes,Bungalow,17912345
+Downtown,2246,5,0,1,No,Flat,14572052
+Suburbs,518,3,29,3,No,Row House,4746304
+Suburbs,914,5,5,2,No,Row House,7833260
+City Center,802,2,4,4,No,Flat,6568175
+Downtown,2664,1,3,3,Yes,Bungalow,17087513
+Suburbs,1073,4,1,2,No,Flat,7748278
+City Center,1704,2,5,3,No,Row House,11455590
+City Center,2653,4,2,2,Yes,Bungalow,18225825
+City Center,2995,4,7,2,No,Bungalow,19443071
+Suburbs,591,1,9,3,No,Flat,4014841
+Downtown,1836,5,1,4,Yes,Row House,14603055
+Downtown,769,4,18,2,No,Flat,6723367
+City Center,774,2,14,1,Yes,Row House,6043043
+City Center,1181,5,21,3,No,Row House,9088505
+Suburbs,2845,3,9,1,Yes,Bungalow,17216177
