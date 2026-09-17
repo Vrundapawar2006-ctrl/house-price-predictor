@@ -1,0 +1,509 @@
+/* ---------------------------------------------------
+   GLOBAL
+--------------------------------------------------- */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+
+    min-height: 100vh;
+
+    color: #ffffff;
+
+    background:
+        radial-gradient(
+            circle at top left,
+            #384a7a,
+            transparent 40%
+        ),
+        radial-gradient(
+            circle at bottom right,
+            #6c3f74,
+            transparent 40%
+        ),
+        #101426;
+}
+
+
+/* ---------------------------------------------------
+   BACKGROUND
+--------------------------------------------------- */
+
+.background {
+    min-height: 100vh;
+
+    padding: 40px 20px;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+}
+
+
+/* ---------------------------------------------------
+   MAIN CONTAINER
+--------------------------------------------------- */
+
+.container {
+
+    width: 100%;
+
+    max-width: 900px;
+
+    padding: 40px;
+
+    border-radius: 25px;
+
+    background: rgba(255, 255, 255, 0.10);
+
+    border: 1px solid rgba(255, 255, 255, 0.18);
+
+    backdrop-filter: blur(20px);
+
+    box-shadow:
+        0 25px 60px rgba(0, 0, 0, 0.35);
+
+}
+
+
+/* ---------------------------------------------------
+   HEADER
+--------------------------------------------------- */
+
+.header {
+    text-align: center;
+
+    margin-bottom: 35px;
+}
+
+
+.small-title {
+
+    font-size: 12px;
+
+    letter-spacing: 3px;
+
+    opacity: 0.7;
+
+    margin-bottom: 10px;
+}
+
+
+.header h1 {
+
+    font-size: clamp(30px, 5vw, 48px);
+
+    margin-bottom: 12px;
+}
+
+
+.header p {
+
+    opacity: 0.75;
+
+}
+
+
+/* ---------------------------------------------------
+   FORM GRID
+--------------------------------------------------- */
+
+.form-grid {
+
+    display: grid;
+
+    grid-template-columns:
+        repeat(2, 1fr);
+
+    gap: 20px;
+}
+
+
+.form-group {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 8px;
+}
+
+
+.form-group label {
+
+    font-size: 14px;
+
+    font-weight: 600;
+
+    opacity: 0.9;
+}
+
+
+/* ---------------------------------------------------
+   INPUTS
+--------------------------------------------------- */
+
+input,
+select {
+
+    width: 100%;
+
+    padding: 14px 16px;
+
+    border-radius: 12px;
+
+    border: 1px solid rgba(255,255,255,0.2);
+
+    outline: none;
+
+    background: rgba(255,255,255,0.10);
+
+    color: white;
+
+    font-size: 15px;
+
+    transition: 0.3s;
+}
+
+
+input:focus,
+select:focus {
+
+    border-color: rgba(255,255,255,0.7);
+
+    box-shadow:
+        0 0 0 3px rgba(255,255,255,0.08);
+}
+
+
+select option {
+
+    color: #111;
+
+}
+
+
+/* ---------------------------------------------------
+   RADIO BUTTONS
+--------------------------------------------------- */
+
+.radio-group {
+
+    display: flex;
+
+    gap: 15px;
+
+    height: 48px;
+
+    align-items: center;
+}
+
+
+.radio-option {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 8px;
+
+    cursor: pointer;
+}
+
+
+.radio-option input {
+
+    width: auto;
+}
+
+
+/* ---------------------------------------------------
+   PREDICT BUTTON
+--------------------------------------------------- */
+
+.predict-button {
+
+    width: 100%;
+
+    margin-top: 30px;
+
+    padding: 16px;
+
+    border: none;
+
+    border-radius: 14px;
+
+    font-size: 16px;
+
+    font-weight: bold;
+
+    cursor: pointer;
+
+    color: white;
+
+    background: rgba(255,255,255,0.20);
+
+    transition: 0.3s;
+}
+
+
+.predict-button:hover {
+
+    transform: translateY(-2px);
+
+    background: rgba(255,255,255,0.30);
+
+}
+
+
+/* ---------------------------------------------------
+   LOADING
+--------------------------------------------------- */
+
+.loading {
+
+    text-align: center;
+
+    margin-top: 30px;
+}
+
+
+.spinner {
+
+    width: 35px;
+
+    height: 35px;
+
+    margin: auto;
+
+    border-radius: 50%;
+
+    border: 3px solid rgba(255,255,255,0.2);
+
+    border-top-color: white;
+
+    animation: spin 1s linear infinite;
+}
+
+
+@keyframes spin {
+
+    to {
+        transform: rotate(360deg);
+    }
+
+}
+
+
+/* ---------------------------------------------------
+   RESULT CARD
+--------------------------------------------------- */
+
+.result-card {
+
+    margin-top: 35px;
+
+    padding: 30px;
+
+    text-align: center;
+
+    border-radius: 20px;
+
+    background: rgba(255,255,255,0.12);
+
+    border:
+        1px solid rgba(255,255,255,0.2);
+
+    animation: resultAppear 0.5s ease;
+}
+
+
+@keyframes resultAppear {
+
+    from {
+
+        opacity: 0;
+
+        transform: translateY(15px);
+
+    }
+
+    to {
+
+        opacity: 1;
+
+        transform: translateY(0);
+
+    }
+
+}
+
+
+.result-label {
+
+    opacity: 0.7;
+
+    margin-bottom: 10px;
+}
+
+
+.result-card h2 {
+
+    font-size: clamp(32px, 6vw, 55px);
+
+    margin-bottom: 10px;
+}
+
+
+.result-note {
+
+    font-size: 13px;
+
+    opacity: 0.6;
+}
+
+
+/* ---------------------------------------------------
+   FEEDBACK
+--------------------------------------------------- */
+
+.feedback {
+
+    margin-top: 25px;
+
+    padding-top: 20px;
+
+    border-top:
+        1px solid rgba(255,255,255,0.15);
+}
+
+
+.feedback p {
+
+    margin-bottom: 15px;
+
+    font-weight: 600;
+}
+
+
+.feedback-button {
+
+    padding: 10px 25px;
+
+    margin: 5px;
+
+    border-radius: 10px;
+
+    border: none;
+
+    cursor: pointer;
+
+    transition: 0.3s;
+}
+
+
+.yes {
+
+    background: rgba(100,200,140,0.3);
+
+    color: white;
+}
+
+
+.no {
+
+    background: rgba(230,100,100,0.3);
+
+    color: white;
+}
+
+
+.feedback-button:hover {
+
+    transform: translateY(-2px);
+}
+
+
+/* ---------------------------------------------------
+   CORRECTION
+--------------------------------------------------- */
+
+.correction {
+
+    margin-top: 20px;
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 10px;
+
+    text-align: left;
+}
+
+
+.correction button {
+
+    padding: 13px;
+
+    border: none;
+
+    border-radius: 10px;
+
+    cursor: pointer;
+
+    font-weight: bold;
+}
+
+
+/* ---------------------------------------------------
+   UTILITY
+--------------------------------------------------- */
+
+.hidden {
+
+    display: none;
+}
+
+
+.feedback-message {
+
+    margin-top: 15px;
+
+    font-size: 14px;
+}
+
+
+/* ---------------------------------------------------
+   MOBILE
+--------------------------------------------------- */
+
+@media (max-width: 650px) {
+
+    .container {
+
+        padding: 25px;
+
+    }
+
+    .form-grid {
+
+        grid-template-columns: 1fr;
+
+    }
+
+    .background {
+
+        padding: 20px 10px;
+
+    }
+
+}
